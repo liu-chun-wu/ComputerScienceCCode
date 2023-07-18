@@ -1,0 +1,10 @@
+void main() {
+  int a = 5;
+  int b = 10;
+  int sum = a+b; 
+} 
+END_OF_FILE
+1
+2
+3
+0
